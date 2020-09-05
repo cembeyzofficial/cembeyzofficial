@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**cembeyzofficial/cembeyzofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------
+Profilimdeki dağıtılan tüm araçların yapımcısı: cembeyzofficial'dır.
+Herhangi bir yerde yapımcının izini olmadan kullanımı yasaktır.
+İzinsiz kullanım ihbarı, Destek Ve Tüm Önerileriniz İçin:
+www.instagram.com/cembeyz
+---------------------------------------------------------------------------
+The owner of all software distributed in the profile is cembeyzofficial.
+Distributing without the developer permission is exactly prohibited.
+for Supports, Suggestions or Reporting the Prohibited Distribution:
+ www.instagram.com/cembeyz
+---------------------------------------------------------------------------
